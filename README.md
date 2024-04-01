@@ -1,2 +1,4 @@
 # sample
-this is my new project.
+This is my first git Repository.
+<br>
+Author-->Sachin Solanki
